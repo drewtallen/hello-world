@@ -1,4 +1,3 @@
-# hello-world
 ## My name is Drew Allen
 ### I am a transfer student to Murray State, majoring in Computer Science.
 
